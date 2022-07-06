@@ -1,0 +1,19 @@
+cmd:
+
+	dir -> lista diretórios
+	cd xyz-> acessa diretório xyz (\ -> base do C:)
+	cd .. -> retorna um diretório
+	cls -> limpa o terminal
+	tecla tab -> auto completa o texto
+	mkdir xyz -> cria diretório xyz
+	echo xyz > abc.txt -> digita xyz no arquivo abc (se não existe, é criado)
+	del -> deleta arquivo ?
+	rmdir xyz /S /Q -> deleta diretório
+	
+	
+GitBash:
+
+	ls -a -> lista diretórios ocultos
+	git init
+	git add
+	git commit
